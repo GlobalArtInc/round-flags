@@ -33,11 +33,6 @@ For example, the following code:
 
 To view all the available flags, check [the gallery](https://globalartlimited.github.io/round-flags/all-flags.html).
 
-### React
-
-If you're using [React](https://reactjs.org), you may want to try the
-[react-circle-flags](https://www.npmjs.com/package/react-circle-flags) package.
-
 ### NPM
 
 If you want to install this package as dependency, you can install it from this GitHub repository:
