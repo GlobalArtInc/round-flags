@@ -1,4 +1,4 @@
-# circle-flags
+# round-flags
 
 A collection of circular SVG country flags.
 
