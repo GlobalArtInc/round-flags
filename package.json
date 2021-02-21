@@ -1,0 +1,37 @@
+{
+  "name": "round-flags",
+  "version": "1.0.0",
+  "description": "A collection of rounded SVG country flags.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobalArtLimited/round-flags.git"
+  },
+  "keywords": [
+    "svg",
+    "country-flags",
+    "country",
+    "icons",
+    "circular",
+    "round",
+    "circle",
+    "minimal",
+    "design",
+    "flags",
+    "svg-icons",
+    "svgo",
+    "minimalist",
+    "minimalistic",
+    "countries",
+    "circle-flags",
+    "languages",
+    "states",
+    "circles",
+    "icon-pack"
+  ],
+  "author": "GlobalArt, ltd <ga-games.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlobalArtLimited/round-flags/issues"
+  },
+  "homepage": "https://github.com/GlobalArtLimited/round-flags#readme"
+}

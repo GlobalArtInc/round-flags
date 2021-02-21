@@ -1,0 +1,22 @@
+# Default options: https://github.com/svg/svgo#what-it-can-do
+
+floatPrecision: 1
+multipass: true
+plugins:
+- removeDimensions: true
+- removeViewBox: false
+- removeRasterImages: true
+- sortAttrs: true
+- removeAttrs:
+    attrs:
+    - 'font.*'
+    - 'opacity'
+    - 'paint.*'
+    - 'stroke.*'
+    - 'text.*'
+- removeStyleElement: true
+- removeScriptElement: true
+- convertPathData:
+    noSpaceAfterFlags: false
+- mergePaths:
+    noSpaceAfterFlags: false
