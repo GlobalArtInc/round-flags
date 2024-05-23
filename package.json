@@ -4,7 +4,7 @@
   "description": "A collection of rounded SVG country flags.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GlobalArtLimited/round-flags.git"
+    "url": "git+https://github.com/GlobalArtInc/round-flags.git"
   },
   "keywords": [
     "svg",
@@ -31,7 +31,7 @@
   "author": "GlobalArt, ltd <ga-games.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GlobalArtLimited/round-flags/issues"
+    "url": "https://github.com/GlobalArtInc/round-flags/issues"
   },
-  "homepage": "https://github.com/GlobalArtLimited/round-flags#readme"
+  "homepage": "https://github.com/GlobalArtInc/round-flags#readme"
 }

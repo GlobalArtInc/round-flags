@@ -5,40 +5,40 @@ A collection of circular SVG country flags.
 ## Usage
 
 ```
-https://globalartlimited.github.io/round-flags/flags/xx.svg
+https://GlobalArtInc.github.io/round-flags/flags/xx.svg
 ```
 (Where `xx` is the [ISO 3166-1 alpha-2 code](https://www.iso.org/obp/ui/#search/code/) of a country).
 
 For example, the following code:
 ```html
-<img src="https://globalartlimited.github.io/round-flags/flags/br.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/cn.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/gb.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/id.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/in.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/ng.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/ru.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/us.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/br.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/cn.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/gb.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/id.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/in.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/ng.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/ru.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/us.svg" width="48">
 ```
 
 ...produces this:<br/><br/>
-<img src="https://globalartlimited.github.io/round-flags/flags/br.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/cn.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/gb.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/id.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/in.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/ng.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/ru.svg" width="48">
-<img src="https://globalartlimited.github.io/round-flags/flags/us.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/br.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/cn.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/gb.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/id.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/in.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/ng.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/ru.svg" width="48">
+<img src="https://GlobalArtInc.github.io/round-flags/flags/us.svg" width="48">
 
-To view all the available flags, check [the gallery](https://globalartlimited.github.io/round-flags/all-flags.html).
+To view all the available flags, check [the gallery](https://GlobalArtInc.github.io/round-flags/all-flags.html).
 
 ### NPM
 
 If you want to install this package as dependency, you can install it from this GitHub repository:
 
 ```
-npm install --save https://github.com/GlobalArtLimited/round-flags
+npm install --save https://github.com/GlobalArtInc/round-flags
 ```
 
 ## Contributing
